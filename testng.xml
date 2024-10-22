@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="2" parallel="methods">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="MavenTestNGMavenTestNG.AutomationTestStore"/>
+    </classes>
+  </test>
+</suite>
